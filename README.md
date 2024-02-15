@@ -3,7 +3,7 @@
 This Project investigates the interaction between a portable dartboard and natural lighting conditions. Computer vision technology is used in this work to extract features from images taken from various angles using portable mobile and natural lighting situations and provide new insights into the location of the stationary dartboard.
 
 ## Project Workflow 
-![smartdart_system](https://github.com/fahadrafiq94/Dart_Detection/assets/71803864/b6d92a59-3e09-42b3-a4e1-54682fc36f19)
+![smartdart_system](https://github.com/fahadrafiq94/Dart_Detection/assets/71803864/b6d92a59-3e09-42b3-a4e1-54682fc36f19).
 
 
 ## Dataset
