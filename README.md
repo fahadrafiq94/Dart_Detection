@@ -5,14 +5,14 @@ This Project investigates the interaction between a portable dartboard and natur
 1. **Set up Python Environment**: Make sure you have Python installed on your system. If not, download and install it from the official Python website.
 
 2. **Clone the Repository**: Clone this repository to your local machine using the following command:
-Replace `<repository_url>` with the URL of this repository.
+Replace `[<repository_url>](https://github.com/fahadrafiq94/Dart_Detection.git)` with the URL of this repository.
 
 3. **Install Dependencies**: Navigate to the project directory and install the required dependencies by running:
 
 ```bash
 pip install -r requirements.txt
 python Smartdarts.py backgroung_image_path, foreground_image_path
-
+```
 ## Project Workflow 
 ![smartdart_system](https://github.com/fahadrafiq94/Dart_Detection/assets/71803864/b6d92a59-3e09-42b3-a4e1-54682fc36f19).
 
