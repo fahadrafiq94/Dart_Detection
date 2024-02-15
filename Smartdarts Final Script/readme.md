@@ -3,10 +3,13 @@ This folder contains the final working script for automatic score calculation.
 
 ## How to run
 To install the dependencies, run the following command in your terminal or command prompt:
-'''pip install -r requirements.txt
+'''bash
+pip install -r requirements.txt
+'''
 
 To calculate the score, run the following command in your terminal or command prompt:
-'''python Smartdarts.py backgroung_image_path, foreground_image_path
-
+'''bash
+python Smartdarts.py backgroung_image_path, foreground_image_path
+'''
 
 
