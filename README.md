@@ -2,7 +2,7 @@
 
 This Project investigates the interaction between a portable dartboard and natural lighting conditions. Computer vision technology is used in this work to extract features from images taken from various angles using portable mobile and natural lighting situations and provide new insights into the location of the stationary dartboard.
 ## Smartdarts Web app: 
-You can visit the project's website [here](https://smartdarts.streamlit.app/).
+You can visit the project's website [here](https://smartdarts-app.streamlit.app/).
 ### Demo:
 https://github.com/fahadrafiq94/Dart_Detection/assets/49267475/f388a500-88e3-4031-a06b-036cc5526011
 ## Installation: 
